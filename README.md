@@ -1,0 +1,1 @@
+A full-stack real estate web application built using Quarkus and React. Users can browse property listings, view detailed information, and post their own properties through a responsive and interactive interface.
